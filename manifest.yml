@@ -1,0 +1,18 @@
+applications:
+- path: .
+  memory: 512M
+  instances: 1
+  domain: mybluemix.net
+  name: harry potter bot
+  host: harry-potter-bot
+  disk_quota: 1024M
+  services:
+  - harry potter conversation bot
+  - harry potter bot-cloudantNoSQLDB
+  - harry potter bot-iotf-service
+  - Text to Speech-ci
+  env:
+    MESSENGER_PAGE_TOKEN: EAAIoY9cfc38BAI9kMXSKJnG4aVPjT302943AgqHsH3QxbxqeCcrRJ5ZCZBHdJNw1HSthOpHaRBb7qf3QI7a5V2gNdnq4OxwNU6teQSesmVBwyg7cCcZCdCxcY3LNLhVIZBqillGIvQi0GfMVfq3an9eZA1Qcf0K7aGoX96Te7HQZDZD
+    ' MESSENGER_APP_SECRET.': cd13975f98a5731898711890a9de5506
+    ' MESSENGER_VERIFY_TOKEN': '2'
+    'WORKSPACE_ID ': ac98ad6d-1dfd-4012-be01-4584d95b03aa
