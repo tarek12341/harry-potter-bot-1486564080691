@@ -16,6 +16,7 @@
         "node-red-contrib-facebook-messenger-writer": "0.x",
         "node-red-dashboard": "2.0.x",
         "node-red-contrib-ibm-wiotp-device-ops":"0.x",
+        "node-red-contrib-play-audio": "2.0.x",
         "node-red-contrib-browser-utils":"0.x",               
         "node-red-dashboard": "2.0.x",
         "node-red-contrib-iot-virtual-device":"0.x",
