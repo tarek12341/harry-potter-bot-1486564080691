@@ -14,7 +14,7 @@
         "node-red-node-openwhisk":"0.x",
         "node-red-node-cf-cloudant":"0.x",
         "node-red-contrib-facebook-messenger-writer": "0.x",
-        "node-red-dashboard": "2.0.x",.x",
+        "node-red-dashboard": "2.0.x",
         "node-red-contrib-ibm-wiotp-device-ops":"0.x",
         "node-red-contrib-browser-utils":"0.x",               
         "node-red-dashboard": "2.0.x",
